@@ -1,0 +1,37 @@
+36,false,300,Danny,Diamond
+M,1,320,Adele,Some Sad Song
+T,2,600,The Dalai Lama
+C,3,180,News and Weather
+A,4,30,Frosties
+A,5,30,Kit Kat
+M,6,240,The Muppets,Mahna Mahna
+M,28,335,Miley Cyrus,Wrecking Ball
+M,15,205,Electric Six,Danger! High Voltage
+M,7,245,The Pixies,Hey
+M,12,306,Sting,Shape of my Heart
+M,13,265,Rolling Stones,Gimme Shelter
+M,34,185,Ray Lamontagne,Meg White
+M,17,280,Johnny Cash,Hurt
+M,22,610,RoxyMusic,If There is Something
+M,27,280,Neil Diamond,Solitary Man
+T,30,300,none
+T,11,600,Adele
+T,23,200,Chas&Dave
+T,18,400,Barack Obama
+T,24,300,Pele
+T,32,1800,Scarlett Johansson
+C,10,300,News and Weather
+C,36,180,News and Weather
+C,20,300,News and Weather
+C,25,180,News and Weather
+C,31,300,News and Weather
+A,8,30,Creme Eggs
+A,9,30,RGU
+A,14,30,Grecian 2000
+A,33,30,Lynx
+A,19,30,Tesco
+A,35,30,Dobbies Garden World
+A,21,30,Apple iPhone 8
+A,26,30,Funky Pidgeon dot.com
+A,16,30,Weetabix
+A,29,30,Megabus
